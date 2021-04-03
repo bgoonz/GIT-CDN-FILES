@@ -14,5 +14,24 @@ But where this really shines is for use with other peoples' OSS projects when a 
 
 jsDelivr also supports NPM and WordPress.
 
+list:
 
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/mdn-article.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/code-highlight.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/gradient.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/table-of-contents.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/markdown-to-html-style.css">
+
+
+
+<script async defer src="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/table-of-contents.js"></script>
+<script async defer src="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/highlight.js"></script>
+<script async defer src="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/table-of-contents.js"></script>
+<script async defer src="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/copy-2-clip.js"></script>
+
+
+
+
+```
 
