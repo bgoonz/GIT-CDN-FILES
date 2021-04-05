@@ -48,3 +48,21 @@ list:
 
 
 ```
+
+
+[Moment.js](http://momentjs.com/) is an open source library that allows you to parse, validate, manipulate and display dates in JavaScript. This library can be run from within a browser or in a Node.js application.
+
+For users running the library from within a browser, a [Moment.js CDN](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/support/moment-js-cdn) combination can be used when referencing the file within your HTML. For users referencing from a third party CDN, the following link can be used (ensure that you first check for the latest version **x.y.z**).
+
+```
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/x.y.z/moment.min.js"></script>
+    
+    
+    ```
+    
+    
+    
+    ---
+    
+[React](https://facebook.github.io/react/) is an open source JavaScript library widely used for building UIs. The project is currently maintained by Facebook, Instagram and a large community of developers. React also has a sister library called [React Native](https://facebook.github.io/react-native/) which allows iOS and Android applications to take advantage of the React architecture.
