@@ -35,3 +35,16 @@ list:
 
 ```
 
+
+
+## Other Popular CDN Endpoints:
+
+
+> [Underscore.js](http://underscorejs.org/) is a library of JavaScript functions that are useful for common programming tasks. This library doesn't require you to extend any existing built-in objects as it takes advantage of functional programming design. Underscore.js provides **over 100 functions** that support both common functional helpers and more specialized tasks.
+
+```
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/x.y.z/underscore-min.js"></script>
+
+
+```
