@@ -33,7 +33,7 @@
   "deprecated": false,
   "description": "Caseless object set/get/has, very useful when working with HTTP headers.",
   "devDependencies": {
-    "tape": "^2.10.2"
+    "tape": "2.14.1"
   },
   "homepage": "https://github.com/mikeal/caseless#readme",
   "keywords": [

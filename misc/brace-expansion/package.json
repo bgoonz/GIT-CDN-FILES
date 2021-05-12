@@ -38,8 +38,8 @@
   "deprecated": false,
   "description": "Brace expansion as known from sh/bash",
   "devDependencies": {
-    "matcha": "^0.7.0",
-    "tape": "^4.6.0"
+    "matcha": "0.7.0",
+    "tape": "4.13.3"
   },
   "homepage": "https://github.com/juliangruber/brace-expansion",
   "keywords": [],

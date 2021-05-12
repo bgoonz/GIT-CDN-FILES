@@ -36,9 +36,9 @@
   "deprecated": false,
   "description": "handler for htmlparser2 that turns pages into a dom",
   "devDependencies": {
-    "htmlparser2": "3.8",
-    "jshint": "~2.3.0",
-    "mocha": "1"
+    "htmlparser2": "3.8.3",
+    "jshint": "2.3.0",
+    "mocha": "1.21.5"
   },
   "directories": {
     "test": "tests"

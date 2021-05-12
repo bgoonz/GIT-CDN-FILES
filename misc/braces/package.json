@@ -58,10 +58,10 @@
   "deprecated": false,
   "description": "Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed.",
   "devDependencies": {
-    "ansi-colors": "^3.2.4",
-    "bash-path": "^2.0.1",
-    "gulp-format-md": "^2.0.0",
-    "mocha": "^6.1.1"
+    "ansi-colors": "3.2.4",
+    "bash-path": "2.0.1",
+    "gulp-format-md": "2.0.0",
+    "mocha": "6.2.3"
   },
   "engines": {
     "node": ">=8"

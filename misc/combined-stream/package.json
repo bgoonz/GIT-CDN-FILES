@@ -38,7 +38,7 @@
   "deprecated": false,
   "description": "A stream that emits multiple other streams one after another.",
   "devDependencies": {
-    "far": "~0.0.7"
+    "far": "0.0.7"
   },
   "engines": {
     "node": ">= 0.8"

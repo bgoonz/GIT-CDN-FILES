@@ -44,12 +44,12 @@
   "deprecated": false,
   "description": "CSSStyleDeclaration Object Model implementation",
   "devDependencies": {
-    "babel-generator": "~6.11.4",
-    "babel-traverse": "~6.13.0",
-    "babel-types": "~6.13.0",
-    "babylon": "~6.8.4",
-    "nodeunit": "~0.8.0",
-    "resolve": "~1.1.7"
+    "babel-generator": "6.11.4",
+    "babel-traverse": "6.13.0",
+    "babel-types": "6.13.0",
+    "babylon": "6.8.4",
+    "nodeunit": "0.8.8",
+    "resolve": "1.1.7"
   },
   "directories": {
     "lib": "./lib"

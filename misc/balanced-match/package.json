@@ -35,8 +35,8 @@
   "deprecated": false,
   "description": "Match balanced character pairs, like \"{\" and \"}\"",
   "devDependencies": {
-    "matcha": "^0.7.0",
-    "tape": "^4.6.0"
+    "matcha": "0.7.0",
+    "tape": "4.13.3"
   },
   "homepage": "https://github.com/juliangruber/balanced-match",
   "keywords": [
