@@ -36,7 +36,7 @@
   "deprecated": false,
   "description": "handler for htmlparser2 that turns pages into a dom",
   "devDependencies": {
-    "htmlparser2": "3.8",
+    "htmlparser2": "3.10",
     "jshint": "~2.3.0",
     "mocha": "1"
   },
