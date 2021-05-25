@@ -35,7 +35,7 @@
     "css-select": "~1.2.0",
     "dom-serializer": "~0.1.0",
     "entities": "~1.1.1",
-    "htmlparser2": "~3.8.1",
+    "htmlparser2": "~3.10.1",
     "jsdom": "^7.0.2",
     "lodash": "^4.1.0"
   },
