@@ -39,7 +39,7 @@
     }
   ],
   "dependencies": {
-    "cssom": "0.3.x"
+    "cssom": "0.4.4"
   },
   "deprecated": false,
   "description": "CSSStyleDeclaration Object Model implementation",
