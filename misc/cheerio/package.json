@@ -32,7 +32,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "css-select": "~1.2.0",
+    "css-select": "~4.0.0",
     "dom-serializer": "~0.1.0",
     "entities": "~1.1.1",
     "htmlparser2": "~3.8.1",
