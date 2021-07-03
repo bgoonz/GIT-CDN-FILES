@@ -17,7 +17,7 @@ The base URL is <https://cdn.jsdelivr.net/gh/{username}/{repo}/>, where you repl
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/markdown-to-html-style.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/prism.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/github.css">
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/medium-basic-export.css">
 
 ```
 
