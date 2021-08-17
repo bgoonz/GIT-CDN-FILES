@@ -51,11 +51,11 @@
   "deprecated": false,
   "description": "Easily add ANSI colors to your text and symbols in the terminal. A faster drop-in replacement for chalk, kleur and turbocolor (without the dependencies and rendering bugs).",
   "devDependencies": {
-    "decache": "^4.5.1",
-    "gulp-format-md": "^2.0.0",
-    "justified": "^1.0.1",
-    "mocha": "^6.1.4",
-    "text-table": "^0.2.0"
+    "decache": "4.6.0",
+    "gulp-format-md": "2.0.0",
+    "justified": "1.0.1",
+    "mocha": "6.2.3",
+    "text-table": "0.2.0"
   },
   "engines": {
     "node": ">=6"

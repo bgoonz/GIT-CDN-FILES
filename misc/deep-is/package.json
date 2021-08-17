@@ -34,7 +34,7 @@
   "deprecated": false,
   "description": "node's assert.deepEqual algorithm except for NaN being equal to NaN",
   "devDependencies": {
-    "tape": "~1.0.2"
+    "tape": "1.0.4"
   },
   "directories": {
     "lib": ".",

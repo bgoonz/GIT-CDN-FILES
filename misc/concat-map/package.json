@@ -34,7 +34,7 @@
   "deprecated": false,
   "description": "concatenative mapdashery",
   "devDependencies": {
-    "tape": "~2.4.0"
+    "tape": "2.4.3"
   },
   "directories": {
     "example": "example",

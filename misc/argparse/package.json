@@ -29,11 +29,11 @@
   "deprecated": false,
   "description": "CLI arguments parser. Native port of python's argparse.",
   "devDependencies": {
-    "@babel/eslint-parser": "^7.11.0",
-    "@babel/plugin-syntax-class-properties": "^7.10.4",
-    "eslint": "^7.5.0",
-    "mocha": "^8.0.1",
-    "nyc": "^15.1.0"
+    "@babel/eslint-parser": "7.13.14",
+    "@babel/plugin-syntax-class-properties": "7.12.13",
+    "eslint": "7.26.0",
+    "mocha": "8.4.0",
+    "nyc": "15.1.0"
   },
   "files": [
     "argparse.js",

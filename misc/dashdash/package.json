@@ -37,7 +37,7 @@
   "deprecated": false,
   "description": "A light, featureful and explicit option parsing library.",
   "devDependencies": {
-    "nodeunit": "0.9.x"
+    "nodeunit": "0.9.5"
   },
   "engines": {
     "node": ">=0.10"

@@ -33,9 +33,9 @@
   "deprecated": false,
   "description": "A cross platform Promise.allSettled polyfill",
   "devDependencies": {
-    "coveralls": "^3.1.0",
-    "nyc": "^15.0.1",
-    "uglify-js": "^3.9.1"
+    "coveralls": "3.1.0",
+    "nyc": "15.1.0",
+    "uglify-js": "3.13.6"
   },
   "exports": {
     "import": "./esm/index.js",
