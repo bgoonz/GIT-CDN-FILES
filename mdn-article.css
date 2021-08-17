@@ -226,7 +226,7 @@ h2 {
 
 h3 {
   font-size: 1.424rem;
-  background-color: #212121;
+
   color: #fff;
   font-family: zillaslab, palatino, "Palatino Linotype", serif;
   font-weight: 400;
@@ -276,7 +276,7 @@ p {
 }
 
 .slab-highlight {
-  background-color: #212121;
+  background-color: whitesmoke;
   color: #fff;
   font-family: zillaslab, palatino, "Palatino Linotype", serif;
   font-weight: 400;
@@ -1031,7 +1031,6 @@ fieldset.bordered {
 }
 
 legend.highlighted {
-  background-color: #212121;
   color: #fff;
   padding: 10px 4px
 }
@@ -1476,7 +1475,6 @@ table code {
 }
 
 .hero-content h1 {
-  background-color: #212121;
   color: #fff;
   font-size: 1.602rem;
   font-weight: 400;
@@ -2903,7 +2901,7 @@ a.page-not-created {
 }
 
 .page-footer {
-  background-color: #212121;
+  background-color: whitesmoke;
   color: #fff;
   padding: 48px 24px
 }
@@ -3614,7 +3612,7 @@ input.search-input-field:invalid {
   }
 
   .mdn-cta-container .mdn-cta-title h2 {
-    background-color: #212121;
+    background-color: whitesmoke;
     color: #fff;
     display: inline-block;
     font-size: 1.953rem;
@@ -3642,7 +3640,7 @@ input.search-input-field:invalid {
   .mdn-cta-container .button:focus,
   .mdn-cta-container .button:hover {
     border: 2px solid #212121;
-    background-color: #212121;
+    background-color: whitesmoke;
     color: #fff
   }
 }

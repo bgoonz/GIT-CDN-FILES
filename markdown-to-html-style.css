@@ -220,7 +220,7 @@
         left: .6em;
         min-width: 1em;
         padding: 0 .5em;
-        background-color: hsla(24, 20%, 50%, .4);
+        background-color: white;
         color: hsl(24, 20%, 95%);
         font: bold 65%/1.5 sans-serif;
         text-align: center;
@@ -653,7 +653,6 @@
 
       .scrollbar-style::-webkit-scrollbar-thumb {
         border-radius: 5px;
-        background-color: rgba(150, 150, 150, 0.66);
         border: 4px solid rgba(150, 150, 150, 0.66);
         background-clip: content-box
       }
@@ -741,7 +740,6 @@
 
       html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb {
         border-radius: 5px;
-        background-color: rgba(150, 150, 150, 0.66);
         border: 4px solid rgba(150, 150, 150, 0.66);
         background-clip: content-box
       }
