@@ -56,11 +56,12 @@ The base URL is <https://cdn.jsdelivr.net/gh/{username}/{repo}/>, where you repl
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/vs2015.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/xcode.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/zenburn.css">
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/copy-2-clip-full.css">
 
 ```
 
 ```html
+<script async defer src="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/copy-2-clip-full.js"></script>
 <script async defer src="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/TableEditor.js"></script>
 <script async defer src="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/autosize.min.js"></script>
 <script async defer src="https://cdn.jsdelivr.net/gh/bgoonz/GIT-CDN-FILES/copy-2-clip.js"></script>
