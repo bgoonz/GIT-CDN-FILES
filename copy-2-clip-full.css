@@ -37,9 +37,7 @@ code {
     color: #d63384;
     word-wrap: break-word!important;
 }
-
 html body table td, html body table th {
-    border: 1px solid #d6d6d600!important;
+    border: 0px solid #d6d6d608!important;
     padding: 6px 13px;
 }
-
