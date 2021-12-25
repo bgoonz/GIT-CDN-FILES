@@ -39,7 +39,7 @@ code {
 }
 
 html body table td, html body table th {
-    border: 1px solid #d6d6d600;
+    border: 1px solid #d6d6d600!important;
     padding: 6px 13px;
 }
 
