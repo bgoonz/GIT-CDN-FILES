@@ -2,11 +2,38 @@ span.command-copy {
     position: absolute;
     top: 10px;
     right: 10px;
-    opacity: .6;
+    opacity: .8;
     font-size: 20px;
     color: #555755;
 }
 
 span.command-copy:hover {
     cursor: pointer;
+}
+body{
+        word-wrap: break-word!important;
+}
+html body code {
+    font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+    word-wrap: break-word!important;
+    color: #000!important;
+    border-radius: 3px;
+    padding: 0.2em 0;
+}
+:not(pre)>code {
+    white-space: normal;
+}
+code, pre {
+    display: block;
+    padding: 20px;
+    background: #989898;
+    color: #ffffff;
+}
+code, pre {
+    position: relative;
+}
+code {
+    font-size: .875em;
+    color: #d63384;
+    word-wrap: break-word!important;
 }
